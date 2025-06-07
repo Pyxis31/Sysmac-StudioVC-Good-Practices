@@ -1,2 +1,2 @@
 # Sysmac-StudioVC-Good-Practices
-Some snapshots of Sysmac-Studio and Tortoise Git regarding Version Control
+Some snapshots of Sysmac-Studio and TortoiseGit regarding Version Control
